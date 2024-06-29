@@ -11,7 +11,7 @@ To get your hands on the project, you can fork the repository to get your copy o
 
 ### Getting Started
 
-- `cd intro-to-apis-flask`
+- `cd API-using-flask`
 - Copy `variables.env.example` to `variables.env` and update it with your Twilio and MongoDB credentials.
 
 ### Running the application normally
